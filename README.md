@@ -1,1 +1,1 @@
-# student-management-system
+# zero waste zero hunger
